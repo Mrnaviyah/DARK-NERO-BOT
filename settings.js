@@ -63,7 +63,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['94705996318']
 global.ownertag = '94705996318' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
+global.botname = '✫ ✫ ✫Ravidu deshan✫ ✫ ✫' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['705996318'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
